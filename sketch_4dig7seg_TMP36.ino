@@ -9,7 +9,7 @@
  *
  * Datasheet: https://www.analog.com/media/en/technical-documentation/data-sheets/TMP35_36_37.pdf
  * 
- * Created on 10 June 2022 by arazak467
+ * Created on 10 June 2022 by c010rblind3ngineer
 */
 
 int pinA = 11;
